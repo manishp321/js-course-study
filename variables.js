@@ -13,7 +13,6 @@ var firstName = 'Manish ';
 var age = 25 ;
 var isMale = true ;
 var dob = new Date (1999,05,11);
-
 var empty = undefined;
 // use console.log to display the data at console
 console.log(firstName);
